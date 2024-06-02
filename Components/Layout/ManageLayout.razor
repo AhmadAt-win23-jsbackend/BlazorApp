@@ -1,0 +1,30 @@
+﻿@using BlazorSiliconApp.Components.Sections
+@inherits LayoutComponentBase
+@layout AccountLayout
+
+@Body
+
+<section id="account-details">
+    <div class="container">
+        @Body
+    </div>
+</section>
+
+@* @code {
+
+    [CascadingParameter]
+    private ApplicationUser user { get; set; } = default!;
+
+    [CascadingParameter]
+    private HttpContent HttpContent { get; set; } = default!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadUserDataAsync();
+    }
+    private async Task LoadUserDataAsync()
+    {
+
+    }
+
+} *@
