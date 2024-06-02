@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorSiliconApp
+build_property.RootNamespace = BlazorSiliconApp
+build_property.ProjectDir = C:\Projects\BlazorSiliconApp\BlazorSiliconApp\BlazorSiliconApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\BlazorSiliconApp\BlazorSiliconApp\BlazorSiliconApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Layout/AccountLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQWNjb3VudExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Layout/ManageLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFuYWdlTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Layout/ManageNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFuYWdlTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Layout/ProfilePicture.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUHJvZmlsZVBpY3R1cmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Account/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Account/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBY2NvdW50XF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Courses.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3Vyc2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Sections/Features.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xGZWF0dXJlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Sections/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xGb290ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Sections/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xIZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Sections/ProfileAvatar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xQcm9maWxlQXZhdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Sections/Showcase.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWN0aW9uc1xTaG93Y2FzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/BlazorSiliconApp/BlazorSiliconApp/BlazorSiliconApp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-32e8ug5atd

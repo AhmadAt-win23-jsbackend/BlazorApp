@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorSiliconApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorSiliconApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\components\\_links.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_links.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\core\\_base.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_base.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\core\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\core\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_media.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\core\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_ManageNavMenu.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_ManageNavMenu.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_account_details.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_account_details.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_account_security.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_account_security.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_appsection.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_appsection.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_contact.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_courses.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_courses.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_darkmode.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_darkmode.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_error.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_error.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_features.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_features.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_integrate.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_integrate.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_managework.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_managework.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_mockup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_mockup.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_notifications.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_notifications.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_singlecourse.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_singlecourse.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_1.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_2.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_3.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_3.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_4.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_4.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_5.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_5.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_6.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_6.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_7.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_7.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_8.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_8.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\Courses\\course_9.svg",
+      "PackagePath": "staticwebassets\\images\\Courses\\course_9.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\MacBook Pro-dark.svg",
+      "PackagePath": "staticwebassets\\images\\MacBook Pro-dark.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\MacBook Pro-light.svg",
+      "PackagePath": "staticwebassets\\images\\MacBook Pro-light.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\arrows.svg",
+      "PackagePath": "staticwebassets\\images\\arrows.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\brand_1.svg",
+      "PackagePath": "staticwebassets\\images\\brand_1.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\brand_2.svg",
+      "PackagePath": "staticwebassets\\images\\brand_2.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\brand_3.svg",
+      "PackagePath": "staticwebassets\\images\\brand_3.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\brand_4.svg",
+      "PackagePath": "staticwebassets\\images\\brand_4.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\chat-icon.svg",
+      "PackagePath": "staticwebassets\\images\\chat-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\data-icon.svg",
+      "PackagePath": "staticwebassets\\images\\data-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\error-pags.jpg",
+      "PackagePath": "staticwebassets\\images\\error-pags.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\Group2103.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\Group2103.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\appstore.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\appstore.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\dropbox.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\evernote.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\evernote.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\gmail.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\gmail.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\google.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\google.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\googleplay.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\googleplay.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\iPhone12Pro.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\iPhone12Pro.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\mailChimp.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\mailChimp.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\manageYour.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\manageYour.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\master.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\master.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\slack.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\slack.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\trello.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\trello.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\icons\\zoom.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\zoom.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\image.svg",
+      "PackagePath": "staticwebassets\\images\\image.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\mockup.svg",
+      "PackagePath": "staticwebassets\\images\\mockup.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\multi-icon.svg",
+      "PackagePath": "staticwebassets\\images\\multi-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\noti-icon.svg",
+      "PackagePath": "staticwebassets\\images\\noti-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\pres-icon.svg",
+      "PackagePath": "staticwebassets\\images\\pres-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\section-icon.svg",
+      "PackagePath": "staticwebassets\\images\\section-icon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\showcase.svg",
+      "PackagePath": "staticwebassets\\images\\showcase.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\silicon-logo-icon-type.svg",
+      "PackagePath": "staticwebassets\\images\\silicon-logo-icon-type.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\silicon-logo-light_theme.svg",
+      "PackagePath": "staticwebassets\\images\\silicon-logo-light_theme.svg"
+    },
+    {
+      "Id": "C:\\Projects\\BlazorSiliconApp\\BlazorSiliconApp\\BlazorSiliconApp\\wwwroot\\images\\uploads\\profiles\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\profiles\\avatar.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSiliconApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSiliconApp.props",
+      "PackagePath": "build\\BlazorSiliconApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSiliconApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSiliconApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSiliconApp.props",
+      "PackagePath": "buildTransitive\\BlazorSiliconApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
